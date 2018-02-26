@@ -2,7 +2,7 @@
 
 http://benewake.com
 
-##Description
+## Description
 本文件夹为TFmini的STM32转接例程程序。
 其中：
 包含2种TFmini通讯协议，分别为：PIX、89BYTE(Standard Data Format)。
@@ -11,6 +11,6 @@ http://benewake.com
 
 均使用STM32CubeMX、Keil作为开发工具。
 
-##Change Log
+## Change Log
 2018/02/26
 - 增加3种芯片型号的开关量转换例程。
