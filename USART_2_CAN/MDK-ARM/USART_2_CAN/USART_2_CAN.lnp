@@ -1,0 +1,29 @@
+--cpu Cortex-M3
+"usart_2_can\usart.o"
+"usart_2_can\can.o"
+"usart_2_can\stm32f1xx_hal_msp.o"
+"usart_2_can\dma.o"
+"usart_2_can\main.o"
+"usart_2_can\stm32f1xx_it.o"
+"usart_2_can\gpio.o"
+"usart_2_can\stm32f1xx_hal_cortex.o"
+"usart_2_can\stm32f1xx_hal_tim_ex.o"
+"usart_2_can\stm32f1xx_hal_gpio.o"
+"usart_2_can\stm32f1xx_hal.o"
+"usart_2_can\stm32f1xx_hal_pwr.o"
+"usart_2_can\stm32f1xx_hal_flash.o"
+"usart_2_can\stm32f1xx_hal_rcc.o"
+"usart_2_can\stm32f1xx_hal_gpio_ex.o"
+"usart_2_can\stm32f1xx_hal_tim.o"
+"usart_2_can\stm32f1xx_hal_dma.o"
+"usart_2_can\stm32f1xx_hal_uart.o"
+"usart_2_can\stm32f1xx_hal_flash_ex.o"
+"usart_2_can\stm32f1xx_hal_rcc_ex.o"
+"usart_2_can\stm32f1xx_hal_can.o"
+"usart_2_can\system_stm32f1xx.o"
+"usart_2_can\startup_stm32f103xe.o"
+--library_type=microlib --strict --scatter "USART_2_CAN\USART_2_CAN.sct"
+
+--diag_suppress=L6329 --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "USART_2_CAN.map" -o USART_2_CAN\USART_2_CAN.axf

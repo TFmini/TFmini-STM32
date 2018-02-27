@@ -1,0 +1,166 @@
+
+# 锟侥硷拷前锟斤拷!锟斤拷锟角凤拷锟斤拷锟津，斤拷指锟斤拷锟斤拷锟侥硷拷锟斤拷拥锟絞it锟斤拷
+
+# =========================
+# 锟斤拷锟斤拷
+# =========================
+# 锟斤拷锟皆达拷锟斤拷募锟�
+*.zip
+*.tar
+*.tar.gz
+
+# C锟斤拷锟斤拷
+
+# 锟斤拷锟斤拷锟侥硷拷
+*.o
+*.d
+*.ko
+*.obj
+*.elf
+*.dep
+
+# 预锟斤拷锟斤拷头锟侥硷拷
+*.gch
+*.pch
+
+# 锟斤拷态锟斤拷锟接匡拷
+*.lib
+*.la
+*.lo
+
+# 锟斤拷态锟斤拷锟接匡拷
+*.dylib
+
+# 锟斤拷执锟斤拷锟侥硷拷
+*.hex
+*.bin
+*.out
+*.app
+*.i*86
+*.x86_64
+*.axf
+
+# List/MAP锟侥硷拷
+*.map
+*.lst
+
+# =========================
+# 锟斤拷锟斤拷锟斤拷锟斤拷/VS Code
+# =========================
+*.VC.db
+src/.vscode
+.vscode/.browse.VC.db-wal
+.vscode/
+
+
+# =========================
+# 锟斤拷锟斤拷锟斤拷锟斤拷/Keil
+# =========================
+*.TMP
+*.d
+*.crf
+*.htm
+*.lnp
+*.dep
+JLinkLog.txt
+*.uvguix.*
+
+# =========================
+# 锟斤拷锟斤拷锟斤拷锟斤拷/Eclipse
+# =========================
+.metadata
+.recommenders
+.loadpath
+.settings/
+local.properties
+*.swp
+*.bak
+*.tmp
+
+# =========================
+# 锟斤拷锟斤拷锟斤拷锟斤拷/Source Insight
+# =========================
+*.SearchResults  # search results
+*.WK3            # workspace
+*.CF3
+*.IAB
+*.IAD
+*.IMB
+*.IMD
+*.PFI
+*.PO
+*.PR
+*.PRI
+*.PS
+FC-SourceInsight/
+
+# =========================
+# 锟斤拷锟斤拷锟斤拷锟斤拷/Matlab
+# =========================
+*.asv
+*.m~
+*.mex*
+slprj/
+octave-workspace
+ 
+
+# =========================
+# 锟斤拷锟斤拷系统锟斤拷锟斤拷募锟�/Windows
+# =========================
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Windows SyncToy Data
+SyncToy_*.dat
+_gsdata_/
+
+# =========================
+# 锟斤拷锟斤拷系统锟斤拷锟斤拷募锟�/Linux
+# =========================
+*~
+
+.fuse_hidden*
+.directory
+.Trash-*
+
+
+# =========================
+# 锟斤拷锟斤拷系统锟斤拷锟斤拷募锟�/OSX
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# huangjian add
+Update_FC_SDK_DEV.cmd
+Tools/BWaker_Mini_V2.0/BWaker_Mini/bin/Debug/2017-11-13_Log.log
