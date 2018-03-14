@@ -3,7 +3,8 @@
 
 # STM32_TFmini  
 
-http://benewake.com
+English version [README.md](/README.md)  
+
 
 ## Description
 本文件夹为TFmini的STM32转接例程程序，使用STM32CubeMX、Keil作为开发工具。
