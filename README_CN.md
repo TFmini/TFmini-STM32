@@ -1,6 +1,3 @@
-
-[TOC]
-
 # STM32_TFmini  
 
 English version [README.md](/README.md)  
