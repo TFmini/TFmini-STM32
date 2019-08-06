@@ -1,6 +1,6 @@
 # TFmini-STM32
 
-**Note: also suitable for TFmini**
+**Note: also suitable for TFmini Plus**
 
 TFmini's Example for STM32 Pi. 中文版参考 [README_CN.md](/README_CN.md).<br>  
 
